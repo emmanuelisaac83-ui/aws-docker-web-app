@@ -1,0 +1,29 @@
+﻿DOCKER WEB APPLICATION ON AWS EC2 - EVIDENCE INVENTORY
+=======================================================
+
+Original screenshots were copied, not moved or deleted.
+Evidence files are intended for the project GitHub repository.
+
+01-vpc-subnet.png - AWS VPC and subnet configuration [Original image 1]
+02-ec2-instance.png - First EC2 instance configuration [Original image 7]
+03-internet-gateway.png - Internet Gateway configuration [Original image 9]
+04-docker-installation.png - Docker packages installation [Original image 15]
+05-docker-running.png - Docker active and running [Original image 16]
+06-docker-version.png - Docker version verification [Original image 17]
+07-docker-hello-world.png - Successful Docker hello-world test [Original image 18]
+08-dockerfile.png - Application Dockerfile or project configuration [Original image 19]
+09-docker-image-build.png - Building the web application image [Original image 21]
+10-docker-images.png - Locally built Docker image [Original image 22]
+11-web-app-response.png - Web application response from the first server [Original image 24]
+12-running-containers.png - Running Docker containers [Original image 25]
+13-compose-configuration.png - Docker Compose configuration [Original image 26]
+14-compose-deployment.png - Docker Compose deployment [Original image 30]
+15-dockerhub-push.png - Successful Docker Hub image push [Original image 35]
+16-second-ec2-server.png - Second EC2 server [Original image 36]
+17-ec2-instances.png - Both EC2 instances running [Original image 41]
+18-dockerhub-pull.png - Pulling the published image from Docker Hub [Original image 49]
+19-second-server-browser-test.png - Browser verification on the second EC2 server [Original image 51]
+20-dockerhub-repository.png - Docker Hub repository [Original image 52]
+
+Before publishing, inspect screenshots for credentials, private keys,
+database passwords, access tokens, and other sensitive information.
