@@ -27,7 +27,7 @@ This hands-on project demonstrates how to package a static website in a Docker i
 
 ## Run the web application locally
 
-Requirements: Docker Engine and Docker Compose.
+**Requirements:** Docker Engine and Docker Compose installed on the host machine. For this project, Docker was installed and used on Ubuntu EC2 instances, accessed remotely through MobaXterm. The commands below can be run on any compatible host with Docker installed.
 
 Build the image:
 
